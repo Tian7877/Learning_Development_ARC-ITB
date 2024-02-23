@@ -1,0 +1,5 @@
+git rebase => command dalam git yang digunakan ketika kita membuat branch baru dan ingin mengaitkan branch baru ke branch main/master
+kita dapat melakukan git rebase "main branch" didalam branch baru kemudian 
+lakukan git checkout "main branch" agar pindah ke branch yang main
+selanjutnya lakukan git rebase "branch baru" 
+maka otomatis branch baru akan mengaitkan diri ke branch main dan akan hanya ada satu branch yang sudah saling terhubung 

@@ -1,0 +1,10 @@
+Fork => menyalin repository milik orang lain tanpa harus memasukkan kedalam cloud 
+di komputer jika termasuk orang yang berperan dalam repository tersebut
+
+pull request => tahap akhir jika orang selain pembuat ingin melakukan push langsung ke branch yang relase
+Tahap pertama buat Clone repository 
+Tahap kedua buat new branch 
+commit dan push ke new branch 
+dan tahap akhir melakukan pull request kepada administrator
+Untuk  menmberi hak akses kepada kita untuk menambahkan kode atau komen 
+

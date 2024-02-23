@@ -1,0 +1,10 @@
+Merge Conflict dan cara Mengatasinnya :
+
+Merge Conflict adalah kondisi ketika dua source yang berbeda di push dalam satu repository dan git akan kebinggungan menggunakan 
+source yang mana untuk proses integrasi kode 
+
+untuk mengatasi Merge conflict ada beberapa cara:
+1. Melakukan push ulang untuk kode 
+2. Melakukukan git pull untuk menarik kode kembali
+3. Melakukan git rebase perubahan dari branch utama ke branch yang digunakan 
+4. Melakukan git add kemudian git commit -m "Title" untuk meyakinkan git bahwa kode tersebut sudah di perbaiki 
