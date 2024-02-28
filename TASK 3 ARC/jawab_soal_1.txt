@@ -1,0 +1,3 @@
+library axios adalah library javascript yang digunakan untuk membuat HTTP requests dari browser web dan Node.JS ini adalah library yang ringan dan mudah digunakan untuk merancang aplikasi web modern 
+libraryy ini menyediakan API yang bersih dan intuitif dan membuatnya mudah untuk membuat HTTP request dan handle responses 
+Cross-platform Support: Axios dapat digunakan di browser web dan Node.js, menjadikannya library serbaguna yang dapat digunakan di berbagai aplikasi.
